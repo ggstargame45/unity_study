@@ -1,4 +1,6 @@
-
+<p align="center">
+ <h2 align="center">유니티 스터디용 저장소</h2>
+</p>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
