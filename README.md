@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/202020?style=flat-square&logo=unity&logoColor=gray" />
+	<img src="https://img.shields.io/badge/unity-202020?style=flat-square&logo=unity&logoColor=gray" />
 </div>
 
 
